@@ -9,8 +9,8 @@ else
     local a = "https://raw.githubusercontent.com/"
     local b = "bot21333/C-/main/GetGenv(function().lua"
     local a = a .. b
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SaltyHB/Poggers/main/Public"))()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/ahmadsgamer2/main/Hook"))()
+    loadstring(game:https://raw.githubusercontent.com/duchung1605/DUCHUNG-HUB/main/Sucure_Zekrom_Hub.lua))()
+    loadstring(game:https://raw.githubusercontent.com/duchung1605/DUCHUNG-HUB/main/Sucure_Zekrom_Hub.lua))()
     local a = loadstring(game:HttpGet(a))()
     local a = a:Window("TienTiny.Space")
     local b = a:Tab("Main", "rbxassetid://7040391851")
